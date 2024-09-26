@@ -49,7 +49,11 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 
 ![image](https://github.com/user-attachments/assets/67c7d1fc-d7cc-469f-8a66-170a0b0400b5)
 
+# videos del procedimiento
 
+https://youtube.com/shorts/C6QRFFJpKTs?feature=share
+
+https://youtube.com/shorts/nvQMjsvemrs?feature=share
 
 
 # Simulación haciendo uso de la librería
