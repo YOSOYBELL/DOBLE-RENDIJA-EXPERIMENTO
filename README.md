@@ -18,6 +18,10 @@ Lo más interesante es que, incluso si hacemos el experimento lanzando un fotón
 
 * Un marcador negro
 
+# Observaciones
+
+Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de interferencia en la pantalla. Aparecen franjas de luz y sombra alternadas, lo que nos mostró que la luz, a pesar de estar formada por partículas (fotones), también se comporta como una onda. 
+
 # Procedimiento
 
 1. en la pantalla de papel realizar dos rectangulos con un marcador negro
