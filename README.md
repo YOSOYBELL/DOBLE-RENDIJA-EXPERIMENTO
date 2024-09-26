@@ -1,10 +1,14 @@
-María Juliana Rodríguez Caicedo, , Diego Alejandro Rojas Ramírez
+María Juliana Rodríguez Caicedo, Juan Sebastian Murcia Yanquen, Diego Alejandro Rojas Ramírez
 
 # Experimento Doble Rendija
 
 El patrón de interferencia sucede porque las ondas de luz que pasan por las dos rendijas se combinan. En los puntos donde las ondas están "en fase" (las crestas coinciden), se refuerzan y generan las franjas claras. En los puntos donde están "fuera de fase" (una cresta coincide con un valle), se cancelan, creando las franjas oscuras.
 
-Lo más interesante es que, incluso si hacemos el experimento lanzando un fotón a la vez, con el tiempo se forma el mismo patrón de interferencia. Esto sugiere que cada fotón "interfiere consigo mismo", como si pasara por ambas rendijas simultáneamente.
+“Este es un experimento realizado a principios del siglo XIX por Thomas Young con el objetivo de apoyar la teoría de que la luz era una onda y rechazar la teoría de que esta estaba formada por partículas.
+
+Young hizo pasar un haz de luz por dos rendijas y vio que sobre una pantalla se producía un patrón de interferencias, una serie de franjas brillantes y oscuras alternadas.
+
+Este resultado es inexplicable si la luz estuviera formada por partículas porque deberían observarse sólo dos franjas de luz frente a las rendijas, pero es fácilmente interpretable asumiendo que la luz es una onda y que sufre interferencias. “ - BBC
 
 # materiales
 
