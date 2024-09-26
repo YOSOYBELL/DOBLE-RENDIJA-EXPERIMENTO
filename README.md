@@ -7,8 +7,12 @@ Lo más interesante es que, incluso si hacemos el experimento lanzando un fotón
 # materiales
 
 Un láser de baja potencia.
+
 Papel aluminio para crear las dos rendijas.
+
 Una pantalla (usamos una hoja de papel, pero cualquier superficie blanca funciona).
+
 Un visturí con buen filo.
+
 Un marcador negro
 
