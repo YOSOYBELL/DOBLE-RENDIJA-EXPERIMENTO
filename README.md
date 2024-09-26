@@ -44,6 +44,12 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 
 ![WhatsApp Image 2024-09-25 at 21 03 29_53bb7def](https://github.com/user-attachments/assets/f3034b73-9734-4220-8eea-69f9a0c58360)
 
+![image](https://github.com/user-attachments/assets/9bee8846-7c10-4fbe-af38-e3478650bde6)
+
+
+![image](https://github.com/user-attachments/assets/67c7d1fc-d7cc-469f-8a66-170a0b0400b5)
+
+
 
 
 # Simulación haciendo uso de la librería
