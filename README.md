@@ -42,18 +42,14 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 
 ![WhatsApp Image 2024-09-25 at 21 03 35_f4e3c0d0](https://github.com/user-attachments/assets/b2b8ae7d-bc23-45cd-a2b6-5b7d6c5b689b)
 
-![WhatsApp Image 2024-09-25 at 21 03 29_53bb7def](https://github.com/user-attachments/assets/f3034b73-9734-4220-8eea-69f9a0c58360)
+![image](https://github.com/user-attachments/assets/608ed267-03fd-4780-aa0b-d9da53c88a57)
 
-![image](https://github.com/user-attachments/assets/9bee8846-7c10-4fbe-af38-e3478650bde6)
+![image](https://github.com/user-attachments/assets/5698e200-53f0-444e-8446-46d9478faa6e)
 
-
-![image](https://github.com/user-attachments/assets/67c7d1fc-d7cc-469f-8a66-170a0b0400b5)
 
 # videos del procedimiento
 
 https://youtube.com/shorts/C6QRFFJpKTs?feature=share
-
-https://youtube.com/shorts/nvQMjsvemrs?feature=share
 
 
 # Simulación haciendo uso de la librería
@@ -97,12 +93,56 @@ def exp_3(matriz,v_inicial):
         print(i)
     lc.graficas(lc.n_tics(matriz), probabilidades)
 ```
+```python
+import numpy as np
+import matplotlib.pyplot as plt
 
-nos entregará lo siguiente
+wavelength = 500e-9  # Longitud de onda (m)
+d = 1e-6  # Distancia entre las dos rendijas (m)
+D = 1.0   # Distancia a la pantalla (m)
+k = 2 * np.pi / wavelength  # Número de onda
+I0 = 1.0  # Intensidad máxima
+
+screen_points = 500  # Número de puntos en la pantalla
+screen_width = 0.05  # Ancho de la pantalla (m)
+x = np.linspace(-screen_width / 2, screen_width / 2, screen_points)
+
+# Funciones de onda para cada rendija
+# Distancia de cada rendija a un punto de la pantalla
+r1 = np.sqrt((x + d/2)**2 + D**2)
+r2 = np.sqrt((x - d/2)**2 + D**2)
+
+# Función de onda total es la suma de las ondas de ambas rendijas
+wave1 = np.exp(1j * k * r1) / r1  # Función de onda de la primera rendija
+wave2 = np.exp(1j * k * r2) / r2  # Función de onda de la segunda rendija
+
+# Superposición de las ondas
+wave_total = wave1 + wave2
+
+# Intensidad es el cuadrado del módulo de la función de onda total
+intensity = I0 * np.abs(wave_total) ** 2
+
+# Normalizar la intensidad
+intensity /= np.max(intensity)
+
+# Graficar la distribución de la intensidad
+plt.figure(figsize=(10, 6))
+plt.bar(x, intensity, width=screen_width / screen_points, color='blue', edgecolor='black')
+plt.title("Distribución de Intensidad en el Experimento Cuántico de la Doble Rendija")
+plt.xlabel("Posición en la Pantalla (m)")
+plt.ylabel("Intensidad (Probabilidad)")
+plt.show()
+
+
+
+```
+nos entregará lo siguiente el primer codigo
 
 ![image](https://github.com/user-attachments/assets/6c9732b3-72ba-4dfb-aec5-e7318cefc2c5)
 
 
 ![image](https://github.com/user-attachments/assets/f820f4ba-21e7-4edc-8809-350933fa3abb)
 
+nos entregará lo siguiente el segundo codigo 
 
+![image](https://github.com/user-attachments/assets/ebe8dd9b-be43-4215-9b4d-91c5522d33d9)
