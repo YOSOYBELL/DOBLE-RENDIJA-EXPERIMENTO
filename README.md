@@ -38,13 +38,7 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
  
 # Fotos del proceso realizado 
 
-![WhatsApp Image 2024-09-25 at 21 03 28_205df279](https://github.com/user-attachments/assets/d60bd2b1-6a7d-4dc4-a755-9d1d327b8614)
 
-![WhatsApp Image 2024-09-25 at 21 03 35_f4e3c0d0](https://github.com/user-attachments/assets/b2b8ae7d-bc23-45cd-a2b6-5b7d6c5b689b)
-
-![image](https://github.com/user-attachments/assets/608ed267-03fd-4780-aa0b-d9da53c88a57)
-
-![image](https://github.com/user-attachments/assets/5698e200-53f0-444e-8446-46d9478faa6e)
 
 
 # videos del procedimiento
