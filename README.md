@@ -1,4 +1,4 @@
-Diego Alejandro Rojas Ramírez
+Diego Alejandro Rojas Ramírez, 
 
 # Experimento Doble Rendija
 
@@ -28,13 +28,19 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 
 # Procedimiento
 
-1. Tomar un pedazo de papel aluminio y un pedazo de la cartulina negra, luego realizar dos cortes con el visturí 
+1. Tomar un pedazo de papel aluminio y ponerl sobre un pedazo de la cartulina negra, luego realizar dos cortes con el visturí 
 
 2. Con la pantalla lista, posicionarlas alrededor de 10cm con el laser y una distancia aproximada de 3 metros con la pared
 
 3. finalmente se enciende el lazer apuntando al centro de ambos rectangulos
  
 # Fotos del proceso realizado 
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7030804d-107f-4b20-8b4f-d201de8fd01b" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/a51bec4e-b20e-47c3-b6f7-2c84639cc473" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3bdfb6aa-354d-497a-8c27-4f5ecb5b363f" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bcb821f6-f844-445c-8976-c46d3d7418ad" />
+
 
 
 # Simulación haciendo uso de la librería
