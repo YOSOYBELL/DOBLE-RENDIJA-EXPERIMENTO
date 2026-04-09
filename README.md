@@ -16,11 +16,11 @@ Este resultado es inexplicable si la luz estuviera formada por partículas porqu
 
 * Papel aluminio para crear las dos rendijas.
 
-* Una pantalla (usamos una hoja de papel, pero cualquier superficie blanca funciona).
+* Una pantalla (usamos una pared blanca).
 
 * Un visturí con buen filo.
 
-* Un marcador negro
+* cartulina negra
 
 # Observaciones
 
@@ -28,13 +28,11 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 
 # Procedimiento
 
-1. en la pantalla de papel realizar dos rectangulos con un marcador negro
+1. Tomar un pedazo de papel aluminio y un pedazo de la cartulina negra, luego realizar dos cortes con el visturí 
 
-2. Tomar un pedazo de papel aluminio y realizar dos cortes con el visturí, luego posicionarlos en la pantalla de papel en donde estan los rectangulos anterioremente hechos 
+2. Con la pantalla lista, posicionarlas alrededor de 10cm con el laser y una distancia aproximada de 3 metros con la pared
 
-3. Con la pantalla lista, posicionarlas mas o menos a 1.8 metros de distancia del lazer
-
-4. finalmente se enciende el lazer apuntando al centro de ambos rectangulos
+3. finalmente se enciende el lazer apuntando al centro de ambos rectangulos
  
 # Fotos del proceso realizado 
 
