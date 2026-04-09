@@ -1,4 +1,4 @@
-María Juliana Rodríguez Caicedo, Juan Sebastian Murcia Yanquen, Diego Alejandro Rojas Ramírez
+Diego Alejandro Rojas Ramírez
 
 # Experimento Doble Rendija
 
@@ -37,13 +37,6 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 4. finalmente se enciende el lazer apuntando al centro de ambos rectangulos
  
 # Fotos del proceso realizado 
-
-
-
-
-# videos del procedimiento
-
-https://youtube.com/shorts/C6QRFFJpKTs?feature=share
 
 
 # Simulación haciendo uso de la librería
