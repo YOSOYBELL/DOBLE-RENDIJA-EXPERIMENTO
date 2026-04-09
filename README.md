@@ -1,4 +1,4 @@
-Diego Alejandro Rojas Ramírez, 
+Diego Alejandro Rojas Ramírez, Wendy carolina quintero dizzett
 
 # Experimento Doble Rendija
 
