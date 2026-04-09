@@ -41,7 +41,9 @@ Cuando encendimos el láser y la luz pasó por las rendijas, vimos un patrón de
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3bdfb6aa-354d-497a-8c27-4f5ecb5b363f" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bcb821f6-f844-445c-8976-c46d3d7418ad" />
 
+# Video del experimento
 
+https://youtube.com/shorts/aS46V8iWaD0?si=h3Zf7VxjtwUzl00B
 
 # Simulación haciendo uso de la librería
 
